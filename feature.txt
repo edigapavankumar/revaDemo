@@ -1,2 +1,6 @@
 New Feature Added
+<<<<<<< HEAD
+tasked add in task02
+=======
 task added in task01
+>>>>>>> 6feb36629bee623888150ec9e97417d29c24d2a1
